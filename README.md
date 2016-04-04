@@ -1,5 +1,8 @@
-MOLPay Shopify Plugin
+MOLPay Shopify Plugin (EOL)
 ==================
+
+Kindly use [Hosted Payment For Shopify](https://github.com/MOLPay/Hosted_Payment_for_Shopify).
+
 MOLPay plugin for shopify is pre-installed in Shopify.
 MOLPay R&D Team will maintain the plugin.
 
